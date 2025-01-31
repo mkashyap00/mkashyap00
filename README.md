@@ -2,7 +2,7 @@
 
  👋 Hello there! Welcome to my GitHub. Thanks for stopping by.
 
-🚀 I'm currently getting my Master's in AI from The University of Texas at Austin. I will be populating my github repository soon with the projects and assignments that were part of my course work. Here you'll find the remnants of my battles with machine learning algorithms, the scars from wrestling with natural language processing, and the occasional triumphant (but probably buggy) projects.
+🚀 I'm currently getting my Master's in AI from The University of Texas at Austin. I will be populating my github repository soon with the projects and assignments that were part of my course work. Here you'll find the remnants of my battles with machine learning algorithms, the scars from wrestling with natural language processing, and the occasional triumphant (but probably buggy) code.
 
 🤓 But hey, at least I'm trying!  Feel free to explore, laugh at my mistakes, and maybe even learn something along the way.
 
