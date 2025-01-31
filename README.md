@@ -1,4 +1,12 @@
-## Hi there 👋
+# Madhu Kashyap's AI Adventures (and Misadventures?)#
+
+ 👋 Hello there! Welcome to my GitHub. Thanks for stopping by.
+
+🚀 I'm currently getting my Master's in AI from The University of Texas at Austin. I will be populating my github repository soon with the projects and assignments that were part of my course work. Here you'll find the remnants of my battles with machine learning algorithms, the scars from wrestling with natural language processing, and the occasional triumphant (but probably buggy) projects.
+
+🤓 But hey, at least I'm trying!  Feel free to explore, laugh at my mistakes, and maybe even learn something along the way.
+
+P.S. If you find any bugs, please fix them and send me a pull request. I'll be eternally grateful (or at least until the next AI apocalypse).
 
 <!--
 **mkashyap00/mkashyap00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
