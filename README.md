@@ -1,4 +1,4 @@
-# Madhu Kashyap's AI Adventures (and Misadventures?)
+# Madhu Kashyap's AI Adventures 
 
  👋 Hello there! Welcome to my GitHub. Thanks for stopping by.
 
